@@ -1,4 +1,10 @@
 ## [How to get create-react-app to work with a Node.js back-end API](https://medium.freecodecamp.org/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0)
+```bash
+$ node server.js
+$ cd client
+$ npm start
+```
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
